@@ -1,4 +1,4 @@
-# Smart-Contacts
+## Smart Contacts
 Next Gen Finance Smart Contracts (Token / Masterchef / Presale / Airdrop)
 
 Next Gen Finance is a decentralized exchange, yield farm, staking and gaming platform deployed on the Binance Smart Chain. Next Gen Finance will be an on-chain system of smart contracts on the Binance Smart Chain implementing an automated liquidity protocol based on a “constant product formula.”
